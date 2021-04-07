@@ -31,7 +31,7 @@
  * @par
  * - <a href="http://github.com/asherikov/smpc_solver/">Sources on GitHub</a>
  * - <a href="./v1/index.html">Old version of the solver</a>
- * - <a href="http://asherikov.github.com/Projects/naowalk.html">A walking module for Nao using this solver</a>
+ * - <a href="http://asherikov.github.io/Projects/naowalk.html">A walking module for Nao using this solver</a>
  *
  * \n
  *
@@ -122,7 +122,7 @@
 @anchor pSchurComplement
 @anchor pCholesky
  * Refer to the masters thesis available on the project 
- * <a href="http://asherikov.github.com/Projects/naowalk.html">web-page</a> 
+ * <a href="http://asherikov.github.io/Projects/naowalk.html">web-page</a> 
  * for detailed description.
  *
  * \n
